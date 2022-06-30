@@ -2,7 +2,8 @@
  install Oracle PHP Extension (oracle OCI) - instantclient for Mac OS M1 - homebrew environnement - on PHP 8.1 
 
 #install a brew version with rosetta
-$install PHP 8.1
+
+#install PHP 8.1
 
 ## Preparation
 
