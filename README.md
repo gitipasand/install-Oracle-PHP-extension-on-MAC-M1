@@ -24,6 +24,7 @@ sudo ln -sfn /usr/local/instantclient/12.2.0.1/*.dylib /usr/local/lib/
 sudo ln -sfn /usr/local/instantclient/12.2.0.1/*.dylib.12.1 /usr/local/lib/
 sudo ln -sfn /usr/local/lib/libclntsh.dylib.12.1 /usr/local/lib/libclntsh.dylib
 
+```
 ## Install extension with pecl
 
 ```
@@ -53,7 +54,7 @@ extension=oci8.so
 ```
 Then do test the setup by running `php -v`. 
 
-if you don`t have erro you must see "oci8" by runnig `php -v`
+if you dont have any errors you must see "oci8" by runnig `php -v`
 
 Restart your HTTP Server and test.
 
